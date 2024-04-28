@@ -32,7 +32,7 @@ switch(day){
 }
 */
 
-let testScore =90;
+let testScore =59;
 let letterGrade;
 
 switch(true){
