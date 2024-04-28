@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size: 5em;
+    font-family: Helvetica;
+    background: rgb(117,5,169);
+    background: linear-gradient(90deg, rgb(44, 11, 59) 2%, rgb(68, 17, 64) 60%, rgb(58, 14, 116) 100%);
+    color: teal;
+}
+button{
+    padding: 5px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: teal;
+    color: turquoise;
+
+}
